@@ -1,0 +1,25 @@
+-> WEBSITE DVMXH : vphuc.online
+-> ZALO : 0942732398
+
+AUTO VXMM 
+- chat "cx" để cài xu min - max giao dịch cho bot 
+- chat "ad" hoặc mở danh sách trong khu lên ấn "Đặt Bot" sẽ đặt random giây
+- chat "ad12" : bot đặt giây thứ 12
+- chat "at" để bật auto bơm xu cho bot
+- chat "xal" để xóa all bot khỏi danh sách
+- chat "v" để hiện nhanh vòng xoay vip
+- chat "t" để hiện nhanh vòng xoay thường 
+
+AUTO PK
+- chat apk + ig muốn pk theo ingame riêng 
+- chat "pk" sau đó chat "ak" để kích hoạt pk người
+- nếu không thêm ingame thì bạn chat pk + ak là chỉ vào ai nó pk người đó
+
+AUTO NVCT
+- chat "as10" : auto Lên Level 10
+- chat "as20" : auto Lên Level 20
+
+AUTO THÊM
+- auto tinh luyện
+- auto lật hình 
+- hiện tinh luyện trang bị 
